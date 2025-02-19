@@ -42,3 +42,5 @@ This is a Streamlit-based web application that allows users to apply various fil
 4. View the original and filtered images.
 5. Download the filtered image using the download button.
 
+or visit the [Filters Application](https://filters-app.streamlit.app/) for a seamless image enhancement experience.
+
